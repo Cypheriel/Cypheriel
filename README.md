@@ -9,7 +9,7 @@
 ### Personal Projects
 * [cmdl](https://github.com/Cypheriel/cmdl) | Command-line parser written in Python, made with ~~love~~ lots of decorators.
 
-* [Entity-Component-System.py](https://github.com/Cypheriel/Entity-Component-System.py) | Terribly written Entity Component System in Python.
+<!--* [Entity-Component-System.py](https://github.com/Cypheriel/Entity-Component-System.py) | Terribly written Entity Component System in Python.-->
 
 <!--
 **Cypheriel/Cypheriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
